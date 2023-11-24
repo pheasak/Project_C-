@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mole_Game", "Mole_Game.csproj", "{62822582-4177-48E8-ACDB-B529EFA34FCB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62822582-4177-48E8-ACDB-B529EFA34FCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62822582-4177-48E8-ACDB-B529EFA34FCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62822582-4177-48E8-ACDB-B529EFA34FCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62822582-4177-48E8-ACDB-B529EFA34FCB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B66E05FA-D18E-4956-8177-8A44272F2C81}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,17 @@
+C:\C#_Programming\WinFormsApp2\bin\Debug\net6.0-windows\WinFormsApp2.exe
+C:\C#_Programming\WinFormsApp2\bin\Debug\net6.0-windows\WinFormsApp2.deps.json
+C:\C#_Programming\WinFormsApp2\bin\Debug\net6.0-windows\WinFormsApp2.runtimeconfig.json
+C:\C#_Programming\WinFormsApp2\bin\Debug\net6.0-windows\WinFormsApp2.dll
+C:\C#_Programming\WinFormsApp2\bin\Debug\net6.0-windows\WinFormsApp2.pdb
+C:\C#_Programming\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.csproj.AssemblyReference.cache
+C:\C#_Programming\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.Form1.resources
+C:\C#_Programming\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.csproj.GenerateResource.cache
+C:\C#_Programming\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#_Programming\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.AssemblyInfoInputs.cache
+C:\C#_Programming\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.AssemblyInfo.cs
+C:\C#_Programming\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.csproj.CoreCompileInputs.cache
+C:\C#_Programming\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.dll
+C:\C#_Programming\WinFormsApp2\obj\Debug\net6.0-windows\refint\WinFormsApp2.dll
+C:\C#_Programming\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.pdb
+C:\C#_Programming\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.genruntimeconfig.cache
+C:\C#_Programming\WinFormsApp2\obj\Debug\net6.0-windows\ref\WinFormsApp2.dll

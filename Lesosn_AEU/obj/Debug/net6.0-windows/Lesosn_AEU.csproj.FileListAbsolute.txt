@@ -1,0 +1,17 @@
+C:\C#_Programming\Lesosn_AEU\bin\Debug\net6.0-windows\Lesosn_AEU.exe
+C:\C#_Programming\Lesosn_AEU\bin\Debug\net6.0-windows\Lesosn_AEU.deps.json
+C:\C#_Programming\Lesosn_AEU\bin\Debug\net6.0-windows\Lesosn_AEU.runtimeconfig.json
+C:\C#_Programming\Lesosn_AEU\bin\Debug\net6.0-windows\Lesosn_AEU.dll
+C:\C#_Programming\Lesosn_AEU\bin\Debug\net6.0-windows\Lesosn_AEU.pdb
+C:\C#_Programming\Lesosn_AEU\obj\Debug\net6.0-windows\Lesosn_AEU.csproj.AssemblyReference.cache
+C:\C#_Programming\Lesosn_AEU\obj\Debug\net6.0-windows\Lesosn_AEU.Form1.resources
+C:\C#_Programming\Lesosn_AEU\obj\Debug\net6.0-windows\Lesosn_AEU.csproj.GenerateResource.cache
+C:\C#_Programming\Lesosn_AEU\obj\Debug\net6.0-windows\Lesosn_AEU.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#_Programming\Lesosn_AEU\obj\Debug\net6.0-windows\Lesosn_AEU.AssemblyInfoInputs.cache
+C:\C#_Programming\Lesosn_AEU\obj\Debug\net6.0-windows\Lesosn_AEU.AssemblyInfo.cs
+C:\C#_Programming\Lesosn_AEU\obj\Debug\net6.0-windows\Lesosn_AEU.csproj.CoreCompileInputs.cache
+C:\C#_Programming\Lesosn_AEU\obj\Debug\net6.0-windows\Lesosn_AEU.dll
+C:\C#_Programming\Lesosn_AEU\obj\Debug\net6.0-windows\refint\Lesosn_AEU.dll
+C:\C#_Programming\Lesosn_AEU\obj\Debug\net6.0-windows\Lesosn_AEU.pdb
+C:\C#_Programming\Lesosn_AEU\obj\Debug\net6.0-windows\Lesosn_AEU.genruntimeconfig.cache
+C:\C#_Programming\Lesosn_AEU\obj\Debug\net6.0-windows\ref\Lesosn_AEU.dll
